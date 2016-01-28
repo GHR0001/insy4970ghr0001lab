@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: GHR0001
+This is the readme file for the INSY 4970 lab.
